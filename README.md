@@ -1,3 +1,21 @@
 # Reference-Number-Generator
  - The program will sequentially generate reference numbers and encrypt them with AES-256, resulting in an encrypted web link.
  - The reference numbers and the web links will be store to the database
+ - An csv report will be generated after the execution of the program
+## Required Package
+- commons-codec-1.10
+- commons-collections4-4.4
+- commons-io-2.4
+- common-lang-2.4
+- jai_codec-1.1.3
+- jai_core-1.1.3
+- javax.servlet-3.0
+- jsch-0.1.55
+- mail
+- opencsv-3.8
+- org.apache.commons.io
+- prg.json.1.6
+- poi-3.10.1
+- sqljdbc4
+- tika-core-1.9
+- zip4j_1.3.2
